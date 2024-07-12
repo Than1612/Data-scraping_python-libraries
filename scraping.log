@@ -1,0 +1,1645 @@
+2024-06-01 19:59:14,307 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,321 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,334 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,350 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,382 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,401 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,484 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,500 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,517 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,534 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,556 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,575 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,595 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,612 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,628 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,644 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,660 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,676 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,693 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,707 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,718 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,730 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,742 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,754 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,765 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,777 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,793 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,808 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,824 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,837 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,848 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,859 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,873 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,887 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,898 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,912 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,926 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,941 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,957 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,972 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:21,987 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,002 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,016 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,030 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,043 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,057 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,072 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,085 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,099 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,124 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,145 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,159 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,177 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,207 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,225 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,258 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,273 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,291 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,308 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,324 - ERROR - Error processing listing: Message: no such element: Unable to locate element: {"method":"css selector","selector":".screen-reader-text"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104ef5106 chromedriver + 667910
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104ef4fe8 chromedriver + 667624
+8   chromedriver                        0x0000000104f23e6e chromedriver + 859758
+9   chromedriver                        0x0000000104f430db chromedriver + 987355
+10  chromedriver                        0x0000000104f23a53 chromedriver + 858707
+11  chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+12  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+13  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+14  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+15  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+16  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+17  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+18  chromedriver                        0x0000000105417008 chromedriver + 6049800
+19  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+20  chromedriver                        0x000000010542688e chromedriver + 6113422
+21  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+22  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
+2024-06-01 19:59:22,345 - ERROR - Error navigating pages: Message: no such element: Unable to locate element: {"method":"css selector","selector":".artdeco-pagination__button--next"}
+  (Session info: chrome=125.0.6422.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010542f6b8 chromedriver + 6149816
+1   chromedriver                        0x0000000105426cda chromedriver + 6114522
+2   chromedriver                        0x0000000104eb3d5c chromedriver + 400732
+3   chromedriver                        0x0000000104f00aa5 chromedriver + 715429
+4   chromedriver                        0x0000000104f00bf1 chromedriver + 715761
+5   chromedriver                        0x0000000104f45dd4 chromedriver + 998868
+6   chromedriver                        0x0000000104f23cdd chromedriver + 859357
+7   chromedriver                        0x0000000104f430db chromedriver + 987355
+8   chromedriver                        0x0000000104f23a53 chromedriver + 858707
+9   chromedriver                        0x0000000104ef36d5 chromedriver + 661205
+10  chromedriver                        0x0000000104ef3f6e chromedriver + 663406
+11  chromedriver                        0x00000001053f0cf0 chromedriver + 5893360
+12  chromedriver                        0x00000001053f64bc chromedriver + 5915836
+13  chromedriver                        0x00000001053d28b4 chromedriver + 5769396
+14  chromedriver                        0x00000001053f6f89 chromedriver + 5918601
+15  chromedriver                        0x00000001053c3ec4 chromedriver + 5709508
+16  chromedriver                        0x0000000105417008 chromedriver + 6049800
+17  chromedriver                        0x00000001054171c7 chromedriver + 6050247
+18  chromedriver                        0x000000010542688e chromedriver + 6113422
+19  libsystem_pthread.dylib             0x00007ff80de8418b _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80de7fae3 thread_start + 15
+
